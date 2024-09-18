@@ -30,4 +30,4 @@ Urziceni 333 74
 Vaslui 376 153
 Zerind 44 225
 ```
-![](./mapa.png)
+![image](https://github.com/user-attachments/assets/07364c52-4891-4ccb-9935-e289131c974d)
